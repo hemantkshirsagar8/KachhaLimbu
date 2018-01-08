@@ -297,8 +297,8 @@ AUTHENTICATION_BACKENDS = (
 
 
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = "707534667118-g9hs9sthk2tcmv31bboop62khp6m79ee.apps.googleusercontent.com"  #Paste CLient Key
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = "a4QWPp1tZu5iVg_2JCZAHrZw" #Paste Secret Key
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = "Your Key"  #Paste CLient Key
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = "Your Key" #Paste Secret Key
 
 # Store these package names here as they may change in the future since
 # at the moment we are using custom forks of them.
